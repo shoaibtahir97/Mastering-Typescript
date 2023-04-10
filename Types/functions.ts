@@ -33,7 +33,7 @@ const myColor = colors.map(color => {
   return color
 })
 
-//Void Type
+//Void Type (function does not return anything)
 function isMale(male: boolean): void {
   console.log(male);
 }
